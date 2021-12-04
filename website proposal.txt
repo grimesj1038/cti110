@@ -1,0 +1,30 @@
+
+Site title
+J. Nicole Photography
+-------------------------------------------------------------------
+Developer information 
+Jasmine Grimes
+for final project of CTI-110
+-------------------------------------------------------------------
+Rationale/focus - 
+Why create this particular site? 
+
+To display and sell my photography services.
+-------------------------------------------------------------------
+What purpose does it fulfill?
+
+To get new clients for my photography.
+-------------------------------------------------------------------
+Target audience - 
+What is its audience or market?
+Companies, Models, and content creators looking for fashion photography, portraits,
+commercial photography for portfolio, or marketing efforts.
+-------------------------------------------------------------------
+Site Outline - 
+List of pages in the site and how they fit into the 
+overall hierarchy of the site layout
+-------------------------------------------------------------------
+Index - The main home page for the website
+About - Telling the consumer about the photographer
+Services - Listing services and skills of the photographer
+Contact - A contact form to email the photographer

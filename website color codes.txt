@@ -1,0 +1,8 @@
+blackish - #292929
+lighter black - #353535
+darkest blue - #03045e
+dark blue - #0077b6
+middle blue - #00b4d8
+light blue - #90e0ef
+lightest blue - #caf0f8
+white - #ffffff
